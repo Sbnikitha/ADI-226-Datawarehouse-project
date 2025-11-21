@@ -1,7 +1,7 @@
 # ADI-226-Datawarehouse-project
 311 and Airbnb 
-![DA226 2](https://github.com/user-attachments/assets/7e30abf5-ff2a-405e-8e76-2e340de19f34)
 
+![architecture 2](https://github.com/user-attachments/assets/ed883120-b077-411b-84c4-d1d0511cbe23)
 
 
 ![WhatsApp Image 2025-11-17 at 20 27 52](https://github.com/user-attachments/assets/6b4e95be-d38f-4c3f-be65-4f562cbf37b9)
