@@ -23,7 +23,7 @@ While NYC 311 complaint data and Airbnb listings are publicly available, there i
 
 ## Architecture
 
-![Architecture Diagram](architecture%202.png)
+![architecture 2](https://github.com/user-attachments/assets/ed883120-b077-411b-84c4-d1d0511cbe23)
 
 The pipeline follows an automated ETL workflow:
 1. **Extract**: Data ingestion from NYC Open Data API and InsideAirbnb → MongoDB → Amazon S3
