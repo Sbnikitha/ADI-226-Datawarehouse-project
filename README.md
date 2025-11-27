@@ -193,6 +193,11 @@ The pipeline follows an automated ETL workflow:
 
 ---
 
+## Agile/ Scrum workflow
+- [Trello Kanban board](https://trello.com/b/sLe3mkUC/nyc-311-airbnb-data-warehouse-project)
+- ![Trello screenshot](trello.jpg)
+  
+---
 ## References
 
 1. NYC Open Data - [311 Service Requests](https://data.cityofnewyork.us/)
